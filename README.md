@@ -22,7 +22,6 @@ I'm a passionate **Data Science and Machine Learning enthusiast** currently deep
 - 🌱 I’m learning **Machine Learning, Statistical Analysis, and Python**
 - 💬 Ask me about **Python, Pandas, NumPy, and ML fundamentals**
 - 📫 How to reach me: **behzadkaviani2004@gmail.com**
-- ⚡ Fun fact: **I believe clean code is as important as accurate models**
 
 ## 🛠️ Tech Stack & Tools
 
