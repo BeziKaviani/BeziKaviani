@@ -75,8 +75,8 @@ Here are some of my key projects that showcase my skills and learning journey:
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](@bezi._.y2j)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](@bezikaviani)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/bezi._.y2j)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/bezikaviani)
 
 </div>
 
