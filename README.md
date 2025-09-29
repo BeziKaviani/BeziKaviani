@@ -2,13 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+BEZI!;" />
 </h1>
 
-<div align="center">
-  
-![GitHub followers](https://img.shields.io/github/followers/BeziKaviani?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/BeziKaviani?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Visitors](https://komarev.com/ghpvc/?username=BeziKaviani&style=flat-square&color=blueviolet)
-
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6a2l5b3V6c3V5d2V3Z2V1bGJ0eGJ6a2N1bGZqZzZ0aGZxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
